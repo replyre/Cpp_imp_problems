@@ -2,4 +2,4 @@
 
 Problems:
 
-> NQueen Problem.
+> [NQueen Problem](https://github.com/replyre/Cpp_imp_problems/blob/main/NQueens.cpp)
